@@ -114,4 +114,4 @@ This screen shows the "Expert Guidance" mode with anchored 3D annotations.
 
 For a deep dive into the UX research and technical specifications:
 
-[📄 Download Full Design Specification (PDF)](./docs/AR_Assist_PRO.pdf)
+[📄 Download Full Design Specification (PDF)](./docs/AR_Assist_Pro.pdf)
